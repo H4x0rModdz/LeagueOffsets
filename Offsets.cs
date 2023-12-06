@@ -1,3 +1,4 @@
+static void Offsets {
 gameTime: 0x2226D48
 localPlayer: 0x223A0B8
 championList: 0x221C620
@@ -40,3 +41,4 @@ buffEnd: 0x1C
 buffInfo: 0x10
 buffName: 0x8
 IsLaneMinion: 0xE3
+  }
